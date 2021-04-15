@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "xrsumerian6803b61c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

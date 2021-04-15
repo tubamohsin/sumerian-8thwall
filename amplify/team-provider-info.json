@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-xrsumerian-dev-162951-authRole",
+      "UnauthRoleArn": "arn:aws:iam::026857899669:role/amplify-xrsumerian-dev-162951-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::026857899669:role/amplify-xrsumerian-dev-162951-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-xrsumerian-dev-162951-deployment",
+      "UnauthRoleName": "amplify-xrsumerian-dev-162951-unauthRole",
+      "StackName": "amplify-xrsumerian-dev-162951",
+      "StackId": "arn:aws:cloudformation:us-east-1:026857899669:stack/amplify-xrsumerian-dev-162951/ea64cd20-9ddd-11eb-a4a4-12c1d85cca19",
+      "AmplifyAppId": "dd04zyi8zgqsw"
+    },
+    "categories": {
+      "auth": {
+        "xrsumerian6803b61c": {}
+      }
+    }
+  }
+}
